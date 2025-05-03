@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://mikumiestu-portfolio.vercel.app/](https://mikumiestu-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mikumiestu.technovagroupinc.com/](https://mikumiestu.technovagroupinc.com/)
 
 - 💬 Ask me about **React, Vue, Next, Laravel**
 
