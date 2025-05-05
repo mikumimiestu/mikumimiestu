@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/jakiine" target="blank"><img src="https://img.shields.io/twitter/follow/jakiine?logo=twitter&style=for-the-badge" alt="jakiine" /></a> </p>
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I’m currently learning **React.js, Nuxt.js and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://mikumiestu.technovagroupinc.com/](https://mikumiestu.technovagroupinc.com/)
 
-- 💬 Ask me about **React, Vue, Next, Laravel**
+- 💬 Ask me about **React, Vue, Next, Laravel, Nuxt**
 
 - 📫 How to reach me **mikumiestu@technovagroupinc.com**
 
