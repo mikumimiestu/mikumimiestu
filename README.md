@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌱 I’m currently learning React.js, Nuxt.js and Next.js<br><br>👨‍💻 All of my projects are available at https://mikumiestu.technovagroupinc.com/<br><br>💬 Ask me about React, Vue, Next, Laravel, Nuxt<br><br>📫 How to reach me mikumiestu@technovagroupinc.com
+ 🌱 I’m currently learning React.js, Nuxt.js and Next.js<br><br>👨‍💻 All of my projects are available at https://mikumiestu.astbyte.com/<br><br>💬 Ask me about React, Vue, Next, Laravel, Nuxt<br><br>📫 How to reach me mikumiestu@astbyte.com
 
 
 ## 🌐 Socials:
